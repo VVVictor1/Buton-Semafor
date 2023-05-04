@@ -1,4 +1,3 @@
-
 let buton = document.getElementById("btnn");
 let colors = ["btn-danger","btn-warning","btn-success"];
 
